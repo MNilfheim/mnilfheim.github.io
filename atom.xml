@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小狐狸的杂毛窝</title>
+  
+  <subtitle>晒太阳的小狐狸</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://mnilfheim.xyz/"/>
+  <updated>2019-11-09T05:17:56.941Z</updated>
+  <id>http://mnilfheim.xyz/</id>
+  
+  <author>
+    <name>Hu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Link Start</title>
+    <link href="http://mnilfheim.xyz/2019/11/09/link-start/"/>
+    <id>http://mnilfheim.xyz/2019/11/09/link-start/</id>
+    <published>2019-11-09T05:07:06.000Z</published>
+    <updated>2019-11-09T05:17:56.941Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;长篇大论等会儿补，上阔去。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
